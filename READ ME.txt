@@ -1,0 +1,22 @@
+Classes:
+Classes written mostly by myself as part of a group project Summer 2014. 
+The project was an android app that allowed users to scan in books that they
+have read or wanted to read, sort through them, recommend books to friends, 
+view their friend's book lists, and accept or decline recommendations. 
+Supporting XML classes may be provided upon request. The friends and recommendation 
+system was designed and built by me. Classmates added a few methods to the MainForm.java file
+to support activities that they programmed. GitHub was used as the version control program.
+
+	ExpandableUserAdapter.java
+	FriendRequest.java
+	MainForm.java
+	MyExpandableAdapter.java
+	RecommendAdapter.java
+	Recommendation.java
+	UserForm.java
+
+Class written as part of a group networks project to create a TCP-like encapsulation for a UDP 
+packet. TCP-like architecture was built over a UDP system with both a client and server.
+Class written and designed by me. 
+
+	Packet.java
